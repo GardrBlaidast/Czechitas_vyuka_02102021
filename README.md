@@ -4,3 +4,5 @@ Cvičná Git repozitory v Czechitas
 Změna do GitHubu Lorem ipsum
 ## Third exercise
 some changes
+## Fourth exercise
+more changes
